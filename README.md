@@ -58,7 +58,7 @@ This repository and its contents are licensed under *MIT LICENSE*. See the [LICE
 
 Happy coding!
 
-![GDSC](GDSC%20Bracket.png)
+![GDSC](covers/bracket.png)
 
 <!-- Image Links according to order of names -->
 [1]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/Wasswa%20Brian.png
