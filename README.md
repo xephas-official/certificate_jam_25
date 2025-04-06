@@ -13,25 +13,40 @@ The Flutter Study Jams 2025 was an engaging 3-day informative series of Flutter 
 
 ## Participants Certificates
 
-Certificates were awarded to participants who successfully completed the course **Let’s Build Apps with Flutter**. Here is a list of the outstanding individuals who have achieved this milestone:
+Certificates were awarded to participants who successfully completed the course **Let's Build Apps with Flutter**. Here is a list of the outstanding individuals who have achieved this milestone:
 
 | Name                     | PNG Certificate | PDF Certificate |
 |--------------------------|-----------------|-----------------|
-| Wasswa Brian             | [View Certificate][1]      | [Download Certificate PDF][9]      |
-| Natukunda Phionah        | [View Certificate][2]     | [Download Certificate PDF][10]     |
-| Magino Daniel            | [View Certificate][3]     | [Download Certificate PDF][11]     |
-| Keith Tugume Kaganda    | [View Certificate][4]     | [Download Certificate PDF][12]     |
-| MUWANGUZI ALVIN KIGGUNDU | [View Certificate][5]     | [Download Certificate PDF][13]     |
-| NTANDA NASSAR            | [View Certificate][6]     | [Download Certificate PDF][14]     |
-| LOUIS WESAMOYO           | [View Certificate][7]     | [Download Certificate PDF][15]     |
-| George Morris Okongo     | [View Certificate][8]     | [Download Certificate PDF][16]     |
-| SSOZI BRANDON            | [View Certificate][17]     | [Download Certificate PDF][18]     |
-| NAMUTSI DIANAH           | [View Certificate][19]     | [Download Certificate PDF][20]     |
-| LUSWATA ANDREW           | [View Certificate][21]     | [Download Certificate PDF][22]     |
-| Keith Kaganda Tugume     | [View Certificate][23]     | [Download Certificate PDF][24]     |
-| KAHUMA ANDREW            | [View Certificate][25]     | [Download Certificate PDF][26]     |
-| Tumwesige Ibrahim        | [View Certificate][27]     | [Download Certificate PDF][28]     |
-| Sheila Ankunda        | [View Certificate][29]     | [Download Certificate PDF][30]     |
+| Amutuhaire Tracy         | [View Certificate][1]      | [Download Certificate PDF][30]      |
+| Ahaabwe Derrick          | [View Certificate][2]     | [Download Certificate PDF][31]     |
+| Arinda Jordan            | [View Certificate][3]     | [Download Certificate PDF][32]     |
+| Asasira Arthur           | [View Certificate][4]     | [Download Certificate PDF][33]     |
+| Boonabaana Bronia        | [View Certificate][5]     | [Download Certificate PDF][34]     |
+| Bagala Zoe Abigail       | [View Certificate][6]     | [Download Certificate PDF][35]     |
+| Bashir Kasujja           | [View Certificate][59]    | [Download Certificate PDF][60]    |
+| Ben Okello Mwaka         | [View Certificate][7]     | [Download Certificate PDF][36]     |
+| Bwanika Robert           | [View Certificate][8]     | [Download Certificate PDF][37]     |
+| Edyelu Andrew            | [View Certificate][9]     | [Download Certificate PDF][38]     |
+| Kimuli Mayanja Moussa    | [View Certificate][10]     | [Download Certificate PDF][39]     |
+| Kabenge Joel Mubuuke     | [View Certificate][11]     | [Download Certificate PDF][40]     |
+| Kevin Ziyada Aseru       | [View Certificate][12]     | [Download Certificate PDF][41]     |
+| Linnet Kukunda           | [View Certificate][13]     | [Download Certificate PDF][42]     |
+| Muhwezi Asaph            | [View Certificate][14]     | [Download Certificate PDF][43]     |
+| Mwiyikinwa Isaac         | [View Certificate][15]     | [Download Certificate PDF][44]     |
+| Makmot Johnson           | [View Certificate][16]     | [Download Certificate PDF][45]     |
+| Mariam Wambui            | [View Certificate][17]     | [Download Certificate PDF][46]     |
+| Matsiko Ian Sezi         | [View Certificate][18]     | [Download Certificate PDF][47]     |
+| Monica Muyama            | [View Certificate][19]     | [Download Certificate PDF][48]     |
+| Muwanguzi Alvin Kiggundu | [View Certificate][20]     | [Download Certificate PDF][49]     |
+| Nakubulwa Shadia         | [View Certificate][21]     | [Download Certificate PDF][50]     |
+| Namulindwa Hanifah       | [View Certificate][22]     | [Download Certificate PDF][51]     |
+| Ogwal Stephen            | [View Certificate][23]     | [Download Certificate PDF][52]     |
+| Okema Paul Mark          | [View Certificate][24]     | [Download Certificate PDF][53]     |
+| Sebunya Ronaldo          | [View Certificate][25]     | [Download Certificate PDF][54]     |
+| Ssemakula Julius         | [View Certificate][26]     | [Download Certificate PDF][55]     |
+| Segane Stuart            | [View Certificate][27]     | [Download Certificate PDF][56]     |
+| Ssekayi Hassan           | [View Certificate][28]     | [Download Certificate PDF][57]     |
+| Wangoda Francis          | [View Certificate][29]     | [Download Certificate PDF][58]     |
 
 Please find the certificates corresponding to each participant above.
 
@@ -61,35 +76,65 @@ Happy coding!
 ![GDSC](covers/bracket.png)
 
 <!-- Image Links according to order of names -->
-[1]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/Wasswa%20Brian.png
-[2]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/Natukunda%20Phionah.png
-[3]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/Magino%20Daniel.png
-[4]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/Keith%20Tugume%20Kaganda.png
-[5]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/MUWANGUZI%20ALVIN%20KIGGUNDU.png
-[6]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/NTANDA%20NASSAR.png
-[7]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/LOUIS%20WESAMOYO.png
-[8]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/George%20Morris%20Okongo.png
-[17]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/SSOZI%20BRANDON.png
-[19]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/NAMUTSI%20DIANAH.png
-[21]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/LUSWATA%20ANDREW.png
-[23]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/Keith%20Kaganda%20Tugume.png
-[25]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/KAHUMA%20ANDREW.png
-[27]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/Tumwesige%20Ibrahim.png
-[29]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/Sheila%20Ankunda.png
+[1]: images/AMUTUHAIRETRACY.png
+[2]: images/AhaabweDerrick.png
+[3]: images/ArindaJordan.png
+[4]: images/AsasiraArthur.png
+[5]: images/BOONABAANABRONIA.png
+[6]: images/BagalaZoeAbigail.png
+[7]: images/BenOkelloMwaka.png
+[8]: images/BwanikaRobert.png
+[9]: images/EDYELUANDREW.png
+[10]: images/KIMULIMAYANJAMOUSSA.png
+[11]: images/KabengeJoelMubuuke.png
+[12]: images/KevinZiyadaAseru.png
+[13]: images/LinnetKukunda.png
+[14]: images/MUHWEZIASAPH.png
+[15]: images/MWIYIKINWAISAAC.png
+[16]: images/MakmotJohnson.png
+[17]: images/MariamWambui.png
+[18]: images/MatsikoIanSezi.png
+[19]: images/MonicaMuyama.png
+[20]: images/MuwanguziAlvinKiggundu.png
+[21]: images/NAKUBULWASHADIA.png
+[22]: images/NAMULINDWAHANIFAH.png
+[23]: images/OGWALSTEPHEN.png
+[24]: images/OKEMAPAULMARK.png
+[25]: images/SEBUNYARONALDO.png
+[26]: images/SSEMAKULAJULIUS.png
+[27]: images/SeganeStuart.png
+[28]: images/SsekaayiHassan.png
+[29]: images/WangodaFrancis.png
+[59]: images/BashirKasujja.png
 
 <!-- PDF Links according to order of names -->
-[9]: pdf/Wasswa%20Brian.pdf
-[10]: pdf/Natukunda%20Phionah.pdf
-[11]: pdf/Magino%20Daniel.pdf
-[12]: pdf/Keith%20Tugume%20Kaganda.pdf
-[13]: pdf/MUWANGUZI%20ALVIN%20KIGGUNDU.pdf
-[14]: pdf/NTANDA%20NASSAR.pdf
-[15]: pdf/LOUIS%20WESAMOYO.pdf
-[16]: pdf/George%20Morris%20Okongo.pdf
-[18]: pdf/SSOZI%20BRANDON.pdf
-[20]: pdf/NAMUTSI%20DIANAH.pdf
-[22]: pdf/LUSWATA%20ANDREW.pdf
-[24]: pdf/Keith%20Kaganda%20Tugume.pdf
-[26]: pdf/KAHUMA%20ANDREW.pdf
-[28]: pdf/Tumwesige%20Ibrahim.pdf
-[30]: pdf/Sheila%20Ankunda.pdf
+[30]: pdf/AMUTUHAIRETRACY.pdf
+[31]: pdf/AhaabweDerrick.pdf
+[32]: pdf/ArindaJordan.pdf
+[33]: pdf/AsasiraArthur.pdf
+[34]: pdf/BOONABAANABRONIA.pdf
+[35]: pdf/BagalaZoeAbigail.pdf
+[36]: pdf/BenOkelloMwaka.pdf
+[37]: pdf/BwanikaRobert.pdf
+[38]: pdf/EDYELUANDREW.pdf
+[39]: pdf/KIMULIMAYANJAMOUSSA.pdf
+[40]: pdf/KabengeJoelMubuuke.pdf
+[41]: pdf/KevinZiyadaAseru.pdf
+[42]: pdf/LinnetKukunda.pdf
+[43]: pdf/MUHWEZIASAPH.pdf
+[44]: pdf/MWIYIKINWAISAAC.pdf
+[45]: pdf/MakmotJohnson.pdf
+[46]: pdf/MariamWambui.pdf
+[47]: pdf/MatsikoIanSezi.pdf
+[48]: pdf/MonicaMuyama.pdf
+[49]: pdf/MuwanguziAlvinKiggundu.pdf
+[50]: pdf/NAKUBULWASHADIA.pdf
+[51]: pdf/NAMULINDWAHANIFAH.pdf
+[52]: pdf/OGWALSTEPHEN.pdf
+[53]: pdf/OKEMAPAULMARK.pdf
+[54]: pdf/SEBUNYARONALDO.pdf
+[55]: pdf/SSEMAKULAJULIUS.pdf
+[56]: pdf/SeganeStuart.pdf
+[57]: pdf/SsekaayiHassan.pdf
+[58]: pdf/WangodaFrancis.pdf
+[60]: pdf/BashirKasujja.pdf
