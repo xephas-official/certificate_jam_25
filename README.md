@@ -28,6 +28,7 @@ Certificates were awarded to participants who successfully completed the course 
 | Stephen Ogwal            | [View Certificate][23]    | [Download Certificate PDF][52]    |
 | Wangoda Francis          | [View Certificate][29]    | [Download Certificate PDF][58]    |
 | Bashir Kasujja           | [View Certificate][59]    | [Download Certificate PDF][60]    |
+| Okema Paul Mark          | [View Certificate][24]     | [Download Certificate PDF][53]     |
 
 Please find the certificates corresponding to each participant above.
 
