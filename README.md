@@ -18,6 +18,8 @@ Certificates were awarded to participants who successfully completed the course 
 | Name                     | PNG Certificate | PDF Certificate |
 |--------------------------|-----------------|-----------------|
 | Asasira Arthur           | [View Certificate][4]     | [Download Certificate PDF][33]     |
+| Ainamani Jim             | [View Certificate][61]    | [Download Certificate PDF][63]     |
+| Bashir Kasujja           | [View Certificate][59]    | [Download Certificate PDF][60]    |
 | Bwanika Robert           | [View Certificate][8]     | [Download Certificate PDF][37]     |
 | Johnson Makmot           | [View Certificate][16]    | [Download Certificate PDF][45]    |
 | Kimuli Mayanja Moussa    | [View Certificate][10]    | [Download Certificate PDF][39]    |
@@ -25,10 +27,10 @@ Certificates were awarded to participants who successfully completed the course 
 | Matsiko Ian Sezi         | [View Certificate][18]    | [Download Certificate PDF][47]    |
 | Monica Muyama            | [View Certificate][19]    | [Download Certificate PDF][48]    |
 | Mwiyikinwa Isaac         | [View Certificate][15]    | [Download Certificate PDF][44]    |
+| Okema Paul Mark          | [View Certificate][24]     | [Download Certificate PDF][53]     |
+| Ssemwanga Trevor McDaniel | [View Certificate][62]    | [Download Certificate PDF][64]     |
 | Stephen Ogwal            | [View Certificate][23]    | [Download Certificate PDF][52]    |
 | Wangoda Francis          | [View Certificate][29]    | [Download Certificate PDF][58]    |
-| Bashir Kasujja           | [View Certificate][59]    | [Download Certificate PDF][60]    |
-| Okema Paul Mark          | [View Certificate][24]     | [Download Certificate PDF][53]     |
 
 Please find the certificates corresponding to each participant above.
 
@@ -88,6 +90,8 @@ Happy coding!
 [28]: images/SsekaayiHassan.png
 [29]: images/WangodaFrancis.png
 [59]: images/BashirKasujja.png
+[61]: images/AinamaniJim.png
+[62]: images/SsemwangaTrevorMcDaniel.png
 
 <!-- PDF Links according to order of names -->
 [30]: pdf/AMUTUHAIRETRACY.pdf
@@ -120,3 +124,5 @@ Happy coding!
 [57]: pdf/SsekaayiHassan.pdf
 [58]: pdf/WangodaFrancis.pdf
 [60]: pdf/BashirKasujja.pdf
+[63]: pdf/AinamaniJim.pdf
+[64]: pdf/SsemwangaTrevorMcDaniel.pdf
